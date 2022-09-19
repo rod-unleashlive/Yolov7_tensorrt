@@ -3,7 +3,8 @@ import setuptools
 # with open("README.md", "r") as fh:
 #     long_description = fh.read()
 
-requirements = ['numpy==1.23.3','Pillow==9.2.0','pycuda==2022.1','pytools==2022.1.12','opencv-python==4.5.1.48','nvidia-tensorrt==8.4.3.1']
+requirements = ['numpy==1.23.2','pycuda==2022.1','nvidia-tensorrt==8.4.3.1']
+# 'pytools==2022.1.12', 'opencv-python==4.5.1.48'
 
 # setuptools.setup(
 #     name="yolov7_package",
