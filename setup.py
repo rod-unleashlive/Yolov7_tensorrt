@@ -31,5 +31,5 @@ setuptools.setup(
     url='https://github.com/rod-unleashlive/Yolov7_tensorrt.git',
     packages=setuptools.find_packages(),
     include_package_data=True,
-    install_requires=requirements,
+    install_requires=[],
 )
